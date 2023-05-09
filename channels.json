@@ -1,0 +1,20 @@
+[
+    {
+        "id": "tohalim",
+        "name": "tohalim",
+        "tags": ["web development", "typescript"],
+        "description": "My tutorials are generally about web development and include coding languages such as HTML, CSS, Sass, JavaScript, and TypeScript."
+    },
+    {
+        "id": "pangeran",
+        "name": "pangeran",
+        "tags": ["frontend", "technology"],
+        "description": "Frontend videos from basic to very advanced; tutorials, technology deep dives. You'll love it!"
+    },
+    {
+        "id": "wance",
+        "name": "wance",
+        "tags": ["software design", "python"],
+        "description": "wance focuses on helping you become a better software developer."
+    }
+]
